@@ -54,20 +54,14 @@ education:
     - degree: B.S.E. in Electrical and Computer Engineering
       university: Princeton University
       time: Expected June 2022
-      gpa: 3.66
+      gpa: GPA 3.66
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Describe your study here 
 experiences:
-    - role: | 
-        [Lead Developer](https://duckduckgo.com)
+    - role: Lead Developer
       time: 2015 - Present
-      company: Startup Hubs, San Francisco
+      company: |
+        [Startup Hubs, San Francisco](https://duckduckgo.com)
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
