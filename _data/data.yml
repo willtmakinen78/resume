@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: William Makinen
-    tagline: Princeton Senior Electrical and Computer Engineering Student
+    tagline: Princeton Electrical and Computer Engineering Student
     avatar: profile_pic.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -45,29 +45,16 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
+    title: About
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am a current Electrical and Computer Engineering senior with certificates in 
+      Computer Science and Robotics. I enjoy all fields equally and my favorite projects 
+      involve the integration of hardware and software, as well as robotics.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: B.S.E. in Electrical and Computer Engineering
+      university: Princeton University
+      time: Expected June 2022
+      gpa: 3.66
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
