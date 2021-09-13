@@ -57,46 +57,53 @@ education:
       gpa: GPA 3.66
       details: |
         Describe your study here 
+
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
+    - role: Intern
+      time: Summer 2021
       company: |
-        [Startup Hubs, San Francisco](https://duckduckgo.com)
+        **E3D-Online,** Oxford, UK 
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+          - Designed, developed, and tested FDM 3D printing extrusion systems as part of the engineering team. 
+    - role: Electrical Engineering Intern
+      time: Summer 2019 & Summer 2020
+      company: |
+        **OPEX Corporation,** Moorestown, NJ
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+          - 2020: Worked in the Incoming and Scanning Division on a variety of circuit design and embedded systems projects. 
+          - 2019: Worked in the Warehouse Automation Division to streamline and automate the final QC process for SSXL iBots.
+    - role: Student Researcher
+      time: Summer 2017 & Summer 2018
+      company: |
+        **U.S. Naval Research Laboratory,** Washington, DC
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-# projects:
+          - 2018: Experimented with the 3D printing of technical ceramics as an alternative fabrication method to previous year’s work. 
+          - 2017: Worked in Optical Sciences division with Dr. Woohong (Rick) Kim to construct a binder-jetter 3D printer capable of forming technical ceramics into complex shapes.
+    - role: 
+      time: 2015 - 2017
+      company: |
+        **International Science and Engineering Fair (ISEF),** Pittsburgh, PA and Los Angeles, CA
+      details: |
+        <em>Award Winner</em> 
+        [May 2017:](https://github.com/willtmakinen78/sciencefair2017) Developed a fully autonomous system for detecting and correcting errors during the FDM
+        3D printing process. Received 4th place in the Engineering and Mechanics category at international ISEF fair in Los Angeles, CA. 
+         - **US Patent Application Granted:** US Patent No. 11,084,091. 
+        <em>Participant</em> 
+        [March 2016:](https://github.com/willtmakinen78/sciencefair2016) Built an autonomous, computer vision-controlled object collection robot to seek out and 
+        collect designated objects in a room. Intended to help the elderly and disabled keep homes clean and safe. 
+         - Placed 2nd at regional fair.
+        <em>ISEF Finalist</em> 
+        [May 2015:](https://github.com/willtmakinen78/sciencefair2015) Constructed a robotic hand designed to 
+        assist with recovery process of temporary forearm injuries (such as a broken radius). 
+         - Awarded grand prize at Fairfax County regional fair, finalist at international ISEF fair in Pittsburgh, PA.
+    - role: Student Researcher
+      time: Summer 2016
+      company: |
+        **Virginia Governor's School Mentorship in Engineering,** NASA Langley Research Center, Hampton, VA 
+      details: |
+          - Worked with other research engineers on real-time 3D printer characterization research to detect print errors in real time. Work expanded upon for 2017 Intel ISEF project.
+          - One of 12 participants chosen from around Virginia.
+
 #     title: Projects
 #     intro: >
 #       You can list your side projects or open source libraries in this
@@ -110,18 +117,6 @@ experiences:
 #       - title: DevStudio
 #         link: "#"
 #         tagline: "A responsive website template designed to help web developers/designers market their services."
-
-#       - title: Tempo
-#         link: "#"
-#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-#       - title: Atom
-#         link: "#"
-#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-#       - title: Delta
-#         link: "#"
-#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Publications
