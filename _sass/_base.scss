@@ -170,7 +170,7 @@ p {
         margin-bottom: 60px;
     }
 
-    .experiences-section, .educations-section {
+    .experiences-section, .educations-section, .projects-section {
         .item {
             margin-bottom: 30px;
         }
@@ -205,14 +205,14 @@ p {
         margin-bottom: 5px;
 	color: darken($theme-color, 15%);
     }
-    .projects-section {
-        .intro {
-            margin-bottom: 30px;
-        }
-        .item {
-            margin-bottom: 15px;
-        }
-    }
+    // .projects-section {
+    //     .intro {
+    //         margin-bottom: 30px;
+    //     }
+    //     .item {
+    //         margin-bottom: 15px;
+    //     }
+    // }
 
     .publication-title {
         font-size: 16px;
