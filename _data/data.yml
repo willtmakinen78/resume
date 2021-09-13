@@ -97,34 +97,31 @@ experiences:
     - role: Student Researcher
       time: Summer 2016
       company: |
-        **Virginia Governor's School Mentorship in Engineering**  
+        **Virginia Governor's Mentorship in Engineering,** Hampton, VA
       details: |
-          - One of 12 participants chosen from around Virginia to work at NASA Langley Research Center in Hampton, VA.
+          - One of 12 participants chosen from around Virginia to work at NASA Langley Research Center.
           - Worked with other research engineers on real-time 3D printer characterization research to detect print errors in real time. Work expanded upon for 2017 Intel ISEF project.
     
 projects:
-    title: Activities
-    intro:
-    assignments:
-      - title: Princeton 3D Printing Club
-        link: 
-        tagline: |
-          <em>President</em>
-          - Rebooted this educational club intended to allow both novices and experienced users to explore 3D printing.
-          - Coordinate workshops to teach 3D printing skills and allow students to become certified on club’s 3D printers.
+    - role: Intern
+      time: Summer 2021
+      company: |
+        **E3D-Online,** Oxford, UK 
+      details: |
+          - Designed, developed, and tested FDM 3D printing extru
 
-      - title: Princeton Running Club
-        link: 
-        tagline: |
-          <em>Sports Club Executive Council Member, Race Coordinator, Top 7 Competitive Athlete</em>
-          - Organize and schedule team races: payment, event entries, transportation, and lodging.
-          - Attend daily practices, weekly races, and monthly council meetings.
+      # - title: Princeton Running Club
+      #   link: 
+      #   tagline: |
+      #     <em>Sports Club Executive Council Member, Race Coordinator, Top 7 Competitive Athlete</em>
+      #     - Organize and schedule team races: payment, event entries, transportation, and lodging.
+      #     - Attend daily practices, weekly races, and monthly council meetings.
 
-      - title: 3D Hubs
-        link: 
-        tagline: |
-          <em>Hub Operator</em>
-          - Print and ship parts submitted by customers through 3DHubs for a fee using personal 3D printer with design services provided as needed.
+      # - title: 3D Hubs
+      #   link: 
+      #   tagline: |
+      #     <em>Hub Operator</em>
+      #     - Print and ship parts submitted by customers through 3DHubs for a fee using personal 3D printer with design services provided as needed.
 publications:
     title: Publications
     intro: |

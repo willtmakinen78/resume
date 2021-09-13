@@ -10,14 +10,32 @@
     {{ projects.title }}
   </h2>
 
-  {% if projects.intro %}
-  <div class="intro">
-      <p>{{ projects.intro }}</p>
-  </div><!--//intro-->
-  {% endif %}
+ 
 
   {% for project in projects.assignments %}
-    <div class="item">
+
+  <div class="item">
+
+    <div class="meta">
+
+      <div class="upper-row">
+        <h3 class="job-title">{{  project.company | markdownify}}</h3>
+        <div class="time">{{ project.time }}</div>
+      </div><!--//upper-row-->
+
+      <div class="company">{{project.role }}</div>
+
+    </div><!--//meta-->
+
+    {% if project.details %}
+    <div class="details">
+      {{ project.details | markdownify }}
+    </div><!--//details-->
+    {% endif %}
+
+  </div><!--//item-->
+
+    <!-- <div class="item">
 
       <span class="project-title">
         {% if project.link %}
@@ -31,7 +49,7 @@
       - <span class="project-tagline">{{ project.tagline | markdownify }}</span>
       {% endif %}
 
-    </div><!--//item-->
+    </div>//item -->
   {% endfor %}
 
 </section><!--//section-->
