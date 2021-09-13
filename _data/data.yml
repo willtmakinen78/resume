@@ -107,17 +107,24 @@ projects:
     intro:
     assignments:
       - title: Princeton 3D Printing Club
-        link: "#hook"
+        link: 
         tagline: |
-          <em>President</em> \
+          <em>President</em>
           - Rebooted this educational club intended to allow both novices and experienced users to explore 3D printing.
           - Coordinate workshops to teach 3D printing skills and allow students to become certified on club’s 3D printers.
 
-      - title: DevStudio
-        link: "#"
+      - title: Princeton Running Club
+        link: 
         tagline: |
-          "A responsive website template designed to help web developers/designers market their services."
+          <em>Sports Club Executive Council Member, Race Coordinator, Top 7 Competitive Athlete</em>
+          - Organize and schedule team races: payment, event entries, transportation, and lodging.
+          - Attend daily practices, weekly races, and monthly council meetings.
 
+      - title: 3D Hubs
+        link: 
+        tagline: |
+          <em>Hub Operator</em>
+          - Print and ship parts submitted by customers through 3DHubs for a fee using personal 3D printer with design services provided as needed.
 publications:
     title: Publications
     intro: |
