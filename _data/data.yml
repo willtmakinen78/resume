@@ -82,10 +82,11 @@ experiences:
     - role: Award Winner, Particpant and ISEF Finalist
       time: 2015 - 2017
       company: |
-        **International Science and Engineering Fair (ISEF),**
+        **International Science and Engineering Fair (ISEF)**
       details: |
         - [May 2017:](https://github.com/willtmakinen78/sciencefair2017) Developed a fully autonomous system for detecting and correcting errors during the FDM
-        3D printing process. Received 4th place in the Engineering and Mechanics category at international ISEF fair in Los Angeles, CA. 
+        3D printing process. 
+          - Received 4th place in the Engineering and Mechanics category at international ISEF fair in Los Angeles, CA. 
           - **US Patent Application Granted:** US Patent No. 11,084,091. 
         - [March 2016:](https://github.com/willtmakinen78/sciencefair2016) Built an autonomous, computer vision-controlled object collection robot to seek out and 
         collect designated objects in a room. Intended to help the elderly and disabled keep homes clean and safe. 
@@ -96,25 +97,24 @@ experiences:
     - role: Student Researcher
       time: Summer 2016
       company: |
-        **Virginia Governor's School Mentorship in Engineering,**  
+        **Virginia Governor's School Mentorship in Engineering**  
       details: |
           - One of 12 participants chosen from around Virginia to work at NASA Langley Research Center in Hampton, VA.
           - Worked with other research engineers on real-time 3D printer characterization research to detect print errors in real time. Work expanded upon for 2017 Intel ISEF project.
           
+title: Activities
+    intro: >
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    assignments:
+      - title: Velocity
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-#     title: Projects
-#     intro: >
-#       You can list your side projects or open source libraries in this
-#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-#     assignments:
-#       - title: Velocity
-#         link: "#hook"
-#         tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-#       - title: DevStudio
-#         link: "#"
-#         tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: DevStudio
+        link: "#"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
 
 publications:
     title: Publications
