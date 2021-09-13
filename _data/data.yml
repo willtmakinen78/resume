@@ -103,44 +103,40 @@ experiences:
           - Worked with other research engineers on real-time 3D printer characterization research to detect print errors in real time. Work expanded upon for 2017 Intel ISEF project.
     
 projects:
-    - role: Intern
-      time: Summer 2021
+    - role: President
+      time: 2-4 hours per week
       company: |
-        **E3D-Online,** Oxford, UK 
+        **Princeton 3D Printing Club** 
       details: |
-          - Designed, developed, and tested FDM 3D printing extru
+          - Rebooted educational club intended to allow both novices and experienced users to explore 3D printing.
+          - Coordinated workshops to teach 3D printing skills and allow students to become certified on club’s 3D printers.
 
-      # - title: Princeton Running Club
-      #   link: 
-      #   tagline: |
-      #     <em>Sports Club Executive Council Member, Race Coordinator, Top 7 Competitive Athlete</em>
-      #     - Organize and schedule team races: payment, event entries, transportation, and lodging.
-      #     - Attend daily practices, weekly races, and monthly council meetings.
+    - role: Sports Club Executive Council Member, Race Coordinator, Top 7 Competitive Athlete
+      time: 12-15 hours per week
+      company: |
+        **Princeton Running Club** 
+      details: |
+          - Organize and schedule team races; payment, event entries, transportation, and lodging.
+          - Attend daily practices, weekly races, and monthly council meetings.
 
-      # - title: 3D Hubs
-      #   link: 
-      #   tagline: |
-      #     <em>Hub Operator</em>
-      #     - Print and ship parts submitted by customers through 3DHubs for a fee using personal 3D printer with design services provided as needed.
+    - role: Hub Operator
+      time: 3-4 hours per week
+      company: |
+        **3D Hubs** 
+      details: |
+          - Print and ship parts submitted by customers through 3DHubs for a fee using personal 3D printers.
+          - Design services provided as needed.
+
 publications:
     title: Publications
     intro: |
       
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: U.S. Patent No. 11,084,091
+        link: "https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=11084091.PN.&OS=PN/11084091&RS=PN/11084091"
+        authors: William Makinen
+        conference: Issued August 10th, 2021
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
