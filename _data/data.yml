@@ -50,6 +50,7 @@ career-profile:
       I am a current Electrical and Computer Engineering senior with certificates in 
       Computer Science and Robotics. I enjoy all fields equally and my favorite projects 
       involve the integration of hardware and software, as well as robotics.
+
 education:
     - degree: B.S.E. in Electrical and Computer Engineering
       university: Princeton University
@@ -65,6 +66,7 @@ experiences:
         **E3D-Online,** Oxford, UK 
       details: |
           - Designed, developed, and tested FDM 3D printing extrusion systems as part of the engineering team. 
+
     - role: Electrical Engineering Intern
       time: Summer 2019 & Summer 2020
       company: |
@@ -72,6 +74,7 @@ experiences:
       details: |
           - 2020: Worked in the Incoming and Scanning Division on a variety of circuit design and embedded systems projects. 
           - 2019: Worked in the Warehouse Automation Division to streamline and automate the final QC process for SSXL iBots.
+
     - role: Student Researcher
       time: Summer 2017 & Summer 2018
       company: |
@@ -79,10 +82,11 @@ experiences:
       details: |
           - 2018: Experimented with the 3D printing of technical ceramics as an alternative fabrication method to previous year’s work. 
           - 2017: Worked in Optical Sciences division with Dr. Woohong (Rick) Kim to construct a binder-jetter 3D printer capable of forming technical ceramics into complex shapes.
+          
     - role: Award Winner, Particpant and ISEF Finalist
       time: 2015 - 2017
       company: |
-        **International Science and Engineering Fair (ISEF)**
+        **International Science and Engineering Fair (ISEF),** multiple locations
       details: |
         - [May 2017:](https://github.com/willtmakinen78/sciencefair2017) Developed a fully autonomous system for detecting and correcting errors during the FDM
         3D printing process. 
@@ -94,6 +98,7 @@ experiences:
         - [May 2015:](https://github.com/willtmakinen78/sciencefair2015) Constructed a robotic hand designed to 
         assist with recovery process of temporary forearm injuries (such as a broken radius). 
           - Awarded grand prize at Fairfax County regional fair, finalist at international ISEF fair in Pittsburgh, PA.
+
     - role: Student Researcher
       time: Summer 2016
       company: |
@@ -142,23 +147,35 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: C/C++
+        level: 80%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Python
+        level: 75%
 
-      - name: Angular
-        level: 98%
+      - name: Java
+        level: 80%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Cadence & SPICE
+        level: 70%
 
-      - name: Ruby on Rails
+      - name: CAD (SolidWorks, Inventor/Fusion 360)
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: G-Code & CNC Devices
+        level: 90%
+
+      - name: MATLAB
+        level: 50%
+
+      - name: Linux Systems
         level: 60%
+
+      - name: Oscilloscopes, DMMs & Signal Generators
+        level: 85%
+
+      - name: Workshop tools & General Making
+        level: 95%
 
 # footer: >
 #     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
