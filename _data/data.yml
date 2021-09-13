@@ -84,15 +84,17 @@ experiences:
       company: |
         **International Science and Engineering Fair (ISEF),** Pittsburgh, PA and Los Angeles, CA
       details: |
-        <em>Award Winner</em> 
+        <em>Award Winner</em> \
         [May 2017:](https://github.com/willtmakinen78/sciencefair2017) Developed a fully autonomous system for detecting and correcting errors during the FDM
         3D printing process. Received 4th place in the Engineering and Mechanics category at international ISEF fair in Los Angeles, CA. 
          - **US Patent Application Granted:** US Patent No. 11,084,091. 
-        <em>Participant</em> 
+        \
+        <em>Participant</em> \
         [March 2016:](https://github.com/willtmakinen78/sciencefair2016) Built an autonomous, computer vision-controlled object collection robot to seek out and 
         collect designated objects in a room. Intended to help the elderly and disabled keep homes clean and safe. 
          - Placed 2nd at regional fair.
-        <em>ISEF Finalist</em> 
+        \
+        <em>ISEF Finalist</em> \
         [May 2015:](https://github.com/willtmakinen78/sciencefair2015) Constructed a robotic hand designed to 
         assist with recovery process of temporary forearm injuries (such as a broken radius). 
          - Awarded grand prize at Fairfax County regional fair, finalist at international ISEF fair in Pittsburgh, PA.
