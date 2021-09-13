@@ -104,25 +104,24 @@ experiences:
     
 projects:
     title: Activities
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    intro:
     assignments:
-      - title: Velocity
+      - title: Princeton 3D Printing Club
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: |
+          <em>President</em> \
+          - Rebooted this educational club intended to allow both novices and experienced users to explore 3D printing.
+          - Coordinate workshops to teach 3D printing skills and allow students to become certified on club’s 3D printers.
 
       - title: DevStudio
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: |
+          "A responsive website template designed to help web developers/designers market their services."
 
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      
     papers:
       - title: The Art of Computer Programming
         link: "#"
