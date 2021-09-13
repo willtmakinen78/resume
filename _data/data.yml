@@ -77,7 +77,8 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
+    - role: | 
+        [Lead Developer](https://duckduckgo.com)
       time: 2015 - Present
       company: Startup Hubs, San Francisco
       details: |
