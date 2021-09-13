@@ -101,8 +101,9 @@ experiences:
       details: |
           - One of 12 participants chosen from around Virginia to work at NASA Langley Research Center in Hampton, VA.
           - Worked with other research engineers on real-time 3D printer characterization research to detect print errors in real time. Work expanded upon for 2017 Intel ISEF project.
-          
-title: Activities
+    
+projects:
+    title: Activities
     intro: >
       You can list your side projects or open source libraries in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
