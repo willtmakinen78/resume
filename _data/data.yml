@@ -175,6 +175,9 @@ skills:
       - name: Oscilloscopes, DMMs & Signal Generators
         level: 85%
 
+      - name: Computer Architecture
+        level: 65%
+
       - name: Workshop tools & General Making
         level: 95%
 
