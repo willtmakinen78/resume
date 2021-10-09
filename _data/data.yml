@@ -175,6 +175,9 @@ skills:
       - name: Oscilloscopes, DMMs & Signal Generators
         level: 85%
 
+      - name: Verilog & FPGA
+        level: 75%
+
       - name: Computer Architecture
         level: 65%
 
