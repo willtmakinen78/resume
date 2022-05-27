@@ -37,6 +37,7 @@
           <h3 class="degree">{{ graduation.university }}</h3>
           <div class="time">{{ graduation.time }}</div>
           <div class="time">{{ graduation.gpa }}</div>
+          <div class="details">{{ graduation.details | markdownify }}</div>
         </div><!--//upper-row-->
 
         <div class="university">{{ graduation.degree }}</div>
