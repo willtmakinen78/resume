@@ -61,12 +61,20 @@ education:
 
     - degree: B.S.E. in Electrical and Computer Engineering
       university: Princeton University
-      time: May 2022
+      time: 2018-2022
       gpa: GPA 3.66
       details: |
         Describe your study here 
 
 experiences:
+    - role: Hardware Team Intern
+      time: Summer 2022
+      company: |
+        **Brilliant,** San Francisco, CA 
+      details: |
+          - Improved upon Brilliant's hardware products as core member of the hardware team.
+          - Contributed via circuit design, prototyping, and  PCB design.
+
     - role: Intern
       time: Summer 2021
       company: |
@@ -122,15 +130,17 @@ projects:
         **Princeton 3D Printing Club** 
       details: |
           - Rebooted educational club intended to allow both novices and experienced users to explore 3D printing.
-          - Coordinated workshops to teach 3D printing skills and allow students to become certified on club’s 3D printers.
+          - Coordinated workshops to teach 3D printing skills and allow students to become certified on club's 3D printers.
 
-    - role: Sports Club Executive Council Member, Race Coordinator, Top 7 Competitive Athlete
+    - role: Assistant Coach, Top 7 Competitive Athlete
       time: 12-15 hours per week
       company: |
         **Princeton Running Club** 
       details: |
+          - Plan Workouts with head coach, modify to suit individual needs of runners. 
+          - Lead team by example by attending daily practices, weekly races. 
           - Organize and schedule team races; payment, event entries, transportation, and lodging.
-          - Attend daily practices, weekly races, and monthly council meetings.
+          
 
     - role: Hub Operator
       time: 3-4 hours per week
@@ -147,7 +157,7 @@ publications:
     papers:
       - title: U.S. Patent No. 11,084,091
         link: "https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=11084091.PN.&OS=PN/11084091&RS=PN/11084091"
-        authors: William Makinen
+        authors:
         conference: Issued August 10th, 2021
 
 
