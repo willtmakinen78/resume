@@ -48,14 +48,14 @@ career-profile:
     title: About
     summary: |
       I am a current Mechanical and Aerospace Engineering master's student. 
-      I enjoy all fields equally from electrical engineerin to robotics and 
-      my favorite projects involve the integration of hardware and software.
+      I enjoy all fields equally from electrical engineering to robotics and 
+      my favorite projects involve the integration of hardware, electronics, and software.
 
 education:
     - degree: M.Eng in Mechanical and Aersopace Engineering
       university: Princeton University
       time: May 2023
-      gpa: example details
+      gpa:
       details: 
         # Describe your study here 
 
@@ -70,7 +70,7 @@ experiences:
     - role: Hardware Team Intern
       time: Summer 2022
       company: |
-        **Brilliant,** San Francisco, CA 
+        **Brilliant Smart Home,** San Mateo, CA 
       details: |
           - Improved upon Brilliant's hardware products as core member of the hardware team.
           - Contributed via circuit design, prototyping, and  PCB design.
