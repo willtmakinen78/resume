@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: William Makinen
-    tagline: Princeton Electrical and Computer Engineering Student
+    tagline: Princeton Mechanical and Aerospace Engineering Master's Student
     avatar: profile_pic.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -47,14 +47,21 @@ sidebar:
 career-profile:
     title: About
     summary: |
-      I am a current Electrical and Computer Engineering senior with certificates in 
-      Computer Science and Robotics. I enjoy all fields equally and my favorite projects 
-      involve the integration of hardware and software, as well as robotics.
+      I am a current Mechanical and Aerospace Engineering master's student. 
+      I enjoy all fields equally from electrical engineerin to robotics and 
+      my favorite projects involve the integration of hardware and software.
 
 education:
+    - degree: M.Eng in Mechanical and Aersopace Engineering
+      university: Princeton University
+      time: May 2023
+      gpa: GPA 3.66
+      details: example details
+        # Describe your study here 
+
     - degree: B.S.E. in Electrical and Computer Engineering
       university: Princeton University
-      time: Expected June 2022
+      time: May 2022
       gpa: GPA 3.66
       details: |
         Describe your study here 
