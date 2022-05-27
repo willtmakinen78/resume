@@ -56,15 +56,15 @@ education:
       university: Princeton University
       time: May 2023
       gpa: example details
-      details: example details
+      details: 
         # Describe your study here 
 
     - degree: B.S.E. in Electrical and Computer Engineering
       university: Princeton University
       time: 2018-2022
-      gpa: GPA 3.66
+      gpa: 3.66 GPA, Graduated with Honors, Bradley Dickinson Thesis Award Winner
       details: |
-        Describe your study here 
+        # Describe your study here 
 
 experiences:
     - role: Hardware Team Intern
