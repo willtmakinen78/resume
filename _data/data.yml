@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: William Makinen
     tagline: Princeton Mechanical and Aerospace Engineering Master's Student
-    avatar: profile_pic.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile_pic_new.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: wmakinen@princeton.edu
@@ -198,7 +198,7 @@ skills:
       - name: Circuit Design & Simulation
         level: 70%
 
-      - name: PCB Design & Layout
+      - name: PCB Design & Layout (Altium Designer)
         level: 90%
 
       - name: Verilog & FPGA
