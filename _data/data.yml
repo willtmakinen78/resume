@@ -181,40 +181,40 @@ skills:
 
     toolset:
       - name: C/C++
-        level: 80%
+        level: 90%
 
       - name: Python
-        level: 75%
-
-      - name: Java
         level: 80%
 
+      - name: Java
+        level: 75%
+
       - name: MATLAB
-        level: 50%
+        level: 65%
 
       - name: Linux Systems
-        level: 60%
+        level: 50%
 
       - name: Circuit Design & Simulation
-        # level: 70%
+        level: #70%
 
       - name: PCB Design & Layout
         level: 90%
 
       - name: Verilog & FPGA
-        level: 75%
+        level: 60%
 
       - name: Computer Architecture
-        level: 65%
+        level: 55%
 
       - name: Oscilloscopes, DMMs & Signal Generators
         level: 85%
 
       - name: CAD (SolidWorks, Inventor, Fusion 360)
-        # level: 85%
+        # level: 90%
 
       - name: G-Code & CNC Devices
-        level: 90%
+        level: 95%
 
       - name: Workshop tools & General Making
         level: 95%
