@@ -196,7 +196,7 @@ skills:
         level: 50%
 
       - name: Circuit Design & Simulation
-        level: #70%
+        level: 70%
 
       - name: PCB Design & Layout
         level: 90%
@@ -211,7 +211,7 @@ skills:
         level: 85%
 
       - name: CAD (SolidWorks, Inventor, Fusion 360)
-        # level: 90%
+        level: 90%
 
       - name: G-Code & CNC Devices
         level: 95%
