@@ -103,7 +103,7 @@ experiences:
       details: |
           - 2018: Experimented with the 3D printing of technical ceramics as an alternative fabrication method to previous year’s work. 
             - Formulated resin-spinel solutions for SLS 3D printing and sintering.
-          - 2017: Worked in Optical Sciences division with Dr. Woohong (Rick) Kim to construct a binder-jetter 3D printer capable of forming technical ceramics into complex shapes.
+          - 2017: Worked in Optical Sciences division to construct a binder-jetter 3D printer capable of forming technical ceramics into complex shapes.
           
     - role: ISEF Finalist
       time: 2017
@@ -210,7 +210,7 @@ skills:
       - name: Oscilloscopes, DMMs & Signal Generators
         level: 85%
 
-      - name: CAD (SolidWorks, Inventor, Fusion 360)
+      - name: CAD (SolidWorks, Inventor, Fusion360)
         level: 90%
 
       - name: G-Code & CNC Devices
