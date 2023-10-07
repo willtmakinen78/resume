@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: William Makinen
-    tagline: Princeton Mechanical and Aerospace Engineering Master's Student
+    tagline: Hardware Engineer at Brilliant
     avatar: profile_pic_new.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -50,14 +50,14 @@ sidebar:
 career-profile:
     title: About
     summary: |
-      I am a current Mechanical and Aerospace Engineering master's student at Princeton University. 
-      I enjoy all fields equally from electrical engineering to robotics and 
-      my favorite projects involve the integration of hardware, electronics, and software.
+      I am a current Electrical Engineer at Brilliant. 
+      I'm a maker at heart, and I enjoy many different technical fields ranging from electrical engineering to robotics. 
+      My favorite projects involve the multidisciplinary integration of hardware, electronics, and software.
 
 education:
     - degree: M.Eng in Mechanical and Aersopace Engineering
       university: Princeton University
-      time: May 2023
+      time: 2022-2023
       gpa:
       details: |
         # Describe your study here 
@@ -70,6 +70,13 @@ education:
         details here # Describe your study here 
 
 experiences:
+    - role: Hardware Team Electrical Engineer
+      time: Current Role
+      company: |
+        **Brilliant Smart Home,** San Mateo, CA 
+      details: |
+          - Working with the hardware team to design, prototype, test, certify, and manufacture electronic smart home devices.
+
     - role: Hardware Team Intern
       time: Summer 2022
       company: |
