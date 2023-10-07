@@ -147,23 +147,7 @@ experiences:
     #       - Worked with other research engineers on real-time 3D printer characterization research to detect print errors in real time. Work expanded upon for 2017 Intel ISEF project.
     
 projects:
-    - role: President
-      time: 2-4 hours per week
-      company: |
-        **Princeton 3D Printing Club** 
-      details: |
-          - Rebooted educational club intended to allow both novices and experienced users to explore 3D printing.
-          - Coordinated workshops to teach 3D printing skills and allow students to become certified on club's 3D printers.
-
-    - role: Assistant Coach, Top 7 Competitive Athlete
-      time: 12-15 hours per week
-      company: |
-        **Princeton Running Club** 
-      details: |
-          - Plan Workouts with head coach, modify to suit individual needs of runners. 
-          - Lead team by example by attending daily practices, weekly races. 
-          - Organize and schedule team races; payment, event entries, transportation, and lodging.
-          
+     
     - role: Hub Operator
       time: 3-4 hours per week
       company: |
@@ -171,6 +155,32 @@ projects:
       details: |
           - Print and ship parts submitted by customers through 3DHubs for a fee using personal 3D printers.
           - Design services provided as needed.
+
+    - role: Athlete
+      time: 12-15 hours per week
+      company: |
+        **West Valley Track Club** 
+      details: |
+          - Compete in track, road, and cross country races as well as attend weekly workouts/practices.
+          - Volunteer at club events/races.
+
+    # DEPRECIATED
+    #- role: President
+    #  time: 2-4 hours per week
+    #  company: |
+    #    **Princeton 3D Printing Club** 
+    #  details: |
+    #      - Rebooted educational club intended to allow both novices and experienced users to explore 3D printing.
+    #      - Coordinated workshops to teach 3D printing skills and allow students to become certified on club's 3D printers.
+
+    #- role: Assistant Coach, Top 7 Competitive Athlete
+    #  time: 12-15 hours per week
+    #  company: |
+    #    **Princeton Running Club** 
+    #  details: |
+    #      - Plan Workouts with head coach, modify to suit individual needs of runners. 
+    #      - Lead team by example by attending daily practices, weekly races. 
+    #      - Organize and schedule team races; payment, event entries, transportation, and lodging.
 
 publications:
     title: Publications
