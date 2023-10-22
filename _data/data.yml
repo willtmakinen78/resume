@@ -189,6 +189,11 @@ publications:
     papers:
       - title: U.S. Patent No. 11,084,091
         link: "https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=11084091.PN.&OS=PN/11084091&RS=PN/11084091"
+        authors: System and method for detecting 3D printing errors
+        conference: Issued August 10th, 2021
+
+      - title: U.S. Patent No. 11,084,091
+        link: "https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=11084091.PN.&OS=PN/11084091&RS=PN/11084091"
         authors:
         conference: Issued August 10th, 2021
 
