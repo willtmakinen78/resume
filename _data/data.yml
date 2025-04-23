@@ -67,15 +67,28 @@ education:
       time: 2018-2022
       gpa: 3.66 GPA, Graduated with Honors, Bradley Dickinson Thesis Award Winner
       details: |
-        details here # Describe your study here 
+        # Describe your study here 
 
 experiences:
-    - role: Hardware Team Electrical Engineer
+    - role: Electrical Engineer
       time: Current Role
+      company: |
+        **Mytra Inc,** South San Francisco, CA 
+      details: |
+          - Designing, bringing up, and iterating upon new PCBs and wiring harnesses for Mytra's warehouse automation robots.
+          - Developing internal tools for PCB part library management and custom PLM integrations and workflows
+
+    - role: Hardware Team Electrical Engineer
+      time: June 2022 - May 2024
       company: |
         **Brilliant Smart Home,** San Mateo, CA 
       details: |
-          - Working with the hardware team to design, prototype, test, certify, and manufacture electronic smart home devices.
+          - Improved upon Brilliant's hardware products as core member of the hardware team.
+            - Designed, prototyped, and tested PoE variant of Brilliant Control.
+            - Debugged critical noise issues within Brillian Switch product.
+            - Researched and implemented doppler radar motion sensor candidates as an alternative to PIR technologies for use in the Brilliant Control.
+            - Developed a battery-powered Brilliant Control for use as a demo unit.
+          - Contributed via circuit design, PCB layout, prototyping, and  bring-up.
 
     - role: Hardware Team Intern
       time: Summer 2022
