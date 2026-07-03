@@ -76,7 +76,7 @@ experiences:
         **Mytra Inc,** South San Francisco, CA 
       details: |
           - Designing, bringing up, and iterating upon new PCBs and wiring harnesses for Mytra's warehouse automation robots.
-          - Developing internal tools for PCB part library management and custom PLM integrations and workflows
+          - Developing internal tools for PCB part library management and custom PLM integrations and workflows.
 
     - role: Hardware Team Electrical Engineer
       time: June 2022 - May 2024
@@ -161,23 +161,26 @@ experiences:
     
 projects:
      
-    - role: Hub Operator
-      time: 3-4 hours per week
-      company: |
-        **3D Hubs** 
-      details: |
-          - Print and ship parts submitted by customers through 3DHubs for a fee using personal 3D printers.
-          - Design services provided as needed.
 
-    - role: Athlete
+    - role: Social Chair
       time: 12-15 hours per week
       company: |
         **West Valley Track Club** 
       details: |
+          - Organize team social activities, help new members feel at home in the club, and assist with recruitment.
           - Compete in track, road, and cross country races as well as attend weekly workouts/practices.
           - Volunteer at club events/races.
 
     # DEPRECIATED
+
+    # - role: Hub Operator
+    #   time: 3-4 hours per week
+    #   company: |
+    #     **3D Hubs** 
+    #   details: |
+    #       - Print and ship parts submitted by customers through 3DHubs for a fee using personal 3D printers.
+    #       - Design services provided as needed.
+
     #- role: President
     #  time: 2-4 hours per week
     #  company: |
