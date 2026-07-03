@@ -5,8 +5,7 @@ title: William Makinen's Resume
 url: ''
 
 #change it according to your repository name
-# disabling since we are using a custom domain
-#baseurl: '/resume' 
+baseurl: '/resume'
 
 description: William Makinen's Electronic Resume
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
